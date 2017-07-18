@@ -1,0 +1,15 @@
+<loginpage>
+     <user no="1">
+	      <username>
+                 <locatortype>xpath</locatortype>
+                 <locatorvalue>//input[@type='text']</locatorvalue>
+                 <data>admin</data>
+          </username>
+		     
+	      <password>
+ 		       <locatortype>xpath</locatortype>
+               <locatorvalue>//input[@type='password']</locatorvalue>
+               <data>manager</data>
+          </password>
+    </user>
+</loginpage>
